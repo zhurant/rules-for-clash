@@ -1,4 +1,3 @@
-#CLASH规则
 #俄罗斯莫斯科
 DOMAIN-SUFFIX,dmtn.tv
 DOMAIN-SUFFIX,nxtxone.com
@@ -17,8 +16,6 @@ IP-CIDR,82.152.0.0/12，no-resolve
 IP-CIDR,102.165.0.0/12,no-resolve
 IP-CIDR,122.254.0.0/12,no-resolve
 IP-CIDR,154.194.0.0/12,no-resolve
-#美国
-IP-CIDR,173.232.0.0/12,no-resolve
 IP-CIDR,185.209.0.0/12,no-resolve
 IP-CIDR,185.53.0.0/12,no-resolve
 IP-CIDR,190.93.0.0/12,no-resolve
